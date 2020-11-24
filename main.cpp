@@ -38,6 +38,7 @@ while(true)
     }
    x = boar.cm(x);
 }
+system("Pause");
 cout << "GAME OVER!" << endl;
 system("Pause");
 }
